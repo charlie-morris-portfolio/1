@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: D10CF004-7E50-4720-8E21-D3AB084B1B87.JPEG
-alt: image-alt
+date: 2024-12-12
+img: A4191D0B-620D-413E-B4A1-E8092E3B4E20.jpeg
+alt: Charlie Morris broadcasting Notre Dame Women's Basketball for WVFI radio
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
