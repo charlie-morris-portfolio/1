@@ -3,6 +3,6 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: img/portfolio/CC25313F-6399-4803-88C9-BB99B127FC35.JPEG
-alt: MyRye with Jose Iglesias.heif
+alt: img/portfolio/CC25313F-6399-4803-88C9-BB99B127FC35.JPEG
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
