@@ -4,5 +4,7 @@ modal-id: 5
 title: Other Projects
 img: A449B648-D12F-43E6-B888-7B80E0003D9A.jpeg
 alt: Charlie Morris, social media manager, posing with the JMH Family Fund Board
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I have been the primary manager for the Instagram (and later Facebook) account for my family's new non-profit
+  organization, the JMH Family Fund. I am in charge of posting on a regular basis and increasing brand name awareness. The
+  Instagram page regular gets over 1,000 views per month despite being just over one year old. 
 ---
