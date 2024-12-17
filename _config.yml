@@ -45,14 +45,14 @@ social:
     url: https://www.linkedin.com/in/c--morris/
   - title: stack-overflow
     url: http://aminoapps.com/p/gqspm6
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: youtube
+    url: https://www.youtube.com/@c-morris-broadcasting
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Based in Rye, New York
+  - line: Attending Notre Dame in 
+  - line: South Bend, Indiana
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
