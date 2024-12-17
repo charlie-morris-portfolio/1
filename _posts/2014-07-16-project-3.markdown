@@ -2,8 +2,8 @@
 layout: default
 modal-id: 3
 title: Upcoming Schedule
-img: circus.png
-alt: image-alt
+img: img/portfolio/B5FED190-8CD9-45C2-86E7-4AA6232CF812.jpeg
+alt: Photo of Charlie Morris from a Notre Dame rugby broadcast in the spring of 2024.
 description: I created a spreadsheet which tracks all my past and upcoming broadcasts, regardless of format or sport, from August of
   2024 through the present-day. Other information on the sheet includes my broadcast partners, notes about some games, and where to
   watch or listen to each one. <a href="https://docs.google.com/spreadsheets/d/1fUWUVJZUfAWwpI6k4Dro0QUduBA4iysz9rXhpipy3SI/edit?gid=0#gid=0"> View my 
