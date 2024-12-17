@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2024-12-12
+title: Resume Reel
 img: A4191D0B-620D-413E-B4A1-E8092E3B4E20.jpeg
 alt: Charlie Morris broadcasting Notre Dame Women's Basketball for WVFI radio
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I collected several clips from both my sports broadcasts and news broadcasts from the Fall 2024 semester
+  at Notre Dame. This includes work behind a news desk and out in the field, as well as color commentary for volleyball
+  and play-by-play for rugby, women's basketball (radio), and hockey (radio). I look forward to keeping this updated,
+  especially as I get more reps on the winter sports and move into baseball and softball in the spring. 
 ---
