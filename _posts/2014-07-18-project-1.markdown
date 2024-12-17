@@ -10,5 +10,5 @@ description: I started at MyRye.com as a head editor and reporter for the organi
   and continued to serve as the top fill-in to take breaking news stories if Mr. Sears needed assistance. I regularly 
   conduct interviews with coaches for preseason outlook stories and postgame recaps. I take pride in my ability to 
   incorporate quotes and stats into prose to create informative yet digestible stories, both about sports and other
-  topics. <a href="https://myrye.com/author/charlie-morris/">See more here.</a>
+  topics. <a href="https://myrye.com/author/charlie-morris/"> See more here.</a>
 ---
