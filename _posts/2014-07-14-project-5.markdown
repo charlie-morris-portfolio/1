@@ -6,5 +6,14 @@ img: A449B648-D12F-43E6-B888-7B80E0003D9A.jpeg
 alt: Charlie Morris, social media manager, posing with the JMH Family Fund Board
 description: I have been the primary manager for the Instagram (and later Facebook) account for my family's new non-profit
   organization, the JMH Family Fund. I am in charge of posting on a regular basis and increasing brand name awareness. The
-  Instagram page regular gets over 1,000 views per month despite being just over one year old. 
+  Instagram page regular gets over 1,000 views per month despite being just over one year old. <a href="https://www.instagram.com/jmh.family.fund/">      Follow us on Instagram here.</a>
+  <br>
+  At Notre Dame, I am the President of the Hockey Analytics Club. Since freshman year, I have overseen the club grow from 3 members to 12,
+  and communication with the coaching staff improve from unseen emails to direct contact. We scout ND hockey opponents using private data,
+  thousands of stats into a one-page report. 
+  <br>
+  When at home in Rye, I work as a hockey skills coach for Erik Nates Euro Hockey. This job was helped greatly with professional
+  development, networking skills, commitment, and more. I have risen the ranks in the company and take on more responsibility per
+  shift. Shifts vary in length and location, and differ from summer camps to in-season team workouts. No matter what, I always
+  bring the energy.
 ---
