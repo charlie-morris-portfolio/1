@@ -6,9 +6,10 @@ img: 569C89AB-4F54-4CFC-B6CE-F88F19669283.jpeg
 alt: Charlie Morris wins 2024 Puckhead Award, Notre Dame Observer hockey coverage
 description: Beyond just my work with MyRye.com, I have contributed to other media organizations. I periodically write for the 
   Notre Dame Observer, writing about St. Mary's College and Notre Dame Sports. I earned the Puckhead Award for proficient coverage
-  of the 2024 ND hockey team as they got set for playoffs. 
+  of the 2024 ND hockey team as they got set for playoffs. <a href="https://www.ndsmcobserver.com/staff/charlie-morris"> Find my
+  full Observer portfolio here.</a>
   <br>
-  
+  I also started a hockey blogging account in 2017, which peaked in 2019, when I claimed the Best Blogger Award for the website
+  (Chel Amino) that year. I still engage with fellow hockey fans and blog occasionally. Chel Amino was an integral part of my
+  development as a writer throughout middle and high school. <a href="http://aminoapps.com/p/gqspm6"> Visit my account here.</a>
 ---
-https://www.ndsmcobserver.com/staff/charlie-morris
-http://aminoapps.com/p/gqspm6
