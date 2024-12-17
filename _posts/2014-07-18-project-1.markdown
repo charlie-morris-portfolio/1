@@ -4,6 +4,11 @@ modal-id: 1
 title: MyRye.com Portfolio
 img: 2CF1FEBF-668F-44D1-B84A-256BA5FA0A04.jpeg
 alt: Charlie Morris interviewing Jose Iglesias ("Candelita")
-<a href="https://myrye.com/author/charlie-morris/">Portfolio</a>:
-description: I started at MyRye.com as a head editor and reporter for the organization's summer internship program. 
+description: I started at MyRye.com as a head editor and reporter for the organization's summer 2024 internship program.
+  After a great summer of reporting, writing, editing, and managing seven other interns, my boss Mr. Jay Sears offered me
+  a part-time hybrid role of 10 hours per week as a staff writer. I shifted my focus to Rye High School varsity sports,
+  and continued to serve as the top fill-in to take breaking news stories if Mr. Sears needed assistance. I regularly 
+  conduct interviews with coaches for preseason outlook stories and postgame recaps. I take pride in my ability to 
+  incorporate quotes and stats into prose to create informative yet digestible stories, both about sports and other
+  topics. See more here.
 ---
