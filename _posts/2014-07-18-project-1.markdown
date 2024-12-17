@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-title: Test title
-date: 2024-12-12
+title: MyRye.com Portfolio
 img: 2CF1FEBF-668F-44D1-B84A-256BA5FA0A04.jpeg
 alt: Charlie Morris interviewing Jose Iglesias ("Candelita")
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I started at MyRye.com as a head editor and reporter for the organization's summer internship program. 
 ---
+https://myrye.com/author/charlie-morris/
