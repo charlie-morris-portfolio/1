@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Other Portfolios
+img: 569C89AB-4F54-4CFC-B6CE-F88F19669283.jpeg
+alt: Charlie Morris wins 2024 Puckhead Award, Notre Dame Observer hockey coverage
+description: Beyond just my work with MyRye.com, I have contributed to other media organizations. I periodically write for the 
+  Notre Dame Observer, writing about St. Mary's College and Notre Dame Sports. I earned the Puckhead Award for proficient coverage
+  of the 2024 ND hockey team as they got set for playoffs. 
+  <br>
+  
 ---
+https://www.ndsmcobserver.com/staff/charlie-morris
+http://aminoapps.com/p/gqspm6
