@@ -4,6 +4,6 @@ modal-id: 1
 title: MyRye.com Portfolio
 img: 2CF1FEBF-668F-44D1-B84A-256BA5FA0A04.jpeg
 alt: Charlie Morris interviewing Jose Iglesias ("Candelita")
+<a href="https://myrye.com/author/charlie-morris/">Portfolio</a>:
 description: I started at MyRye.com as a head editor and reporter for the organization's summer internship program. 
 ---
-https://myrye.com/author/charlie-morris/
