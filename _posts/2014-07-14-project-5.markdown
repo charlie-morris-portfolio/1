@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 5
 title: Resume
 img: C0DE00DD-0B31-44F7-AC2A-1D56E06517D7.jpeg
 alt: Charlie Morris covering breaking news at Notre Dame behind NDTV desk.
-description: 
+description: My resume covers 
 ---
 file:///C:/Users/ryera/Downloads/Charlie%20Morris%20Resume.pdf
