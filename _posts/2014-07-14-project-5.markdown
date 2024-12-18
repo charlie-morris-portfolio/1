@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 title: Other Projects
 img: A449B648-D12F-43E6-B888-7B80E0003D9A.jpeg
 alt: Charlie Morris, social media manager, posing with the JMH Family Fund Board
