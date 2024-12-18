@@ -1,7 +1,4 @@
 ---
-
----
-
 layout: default
 modal-id: 6
 title: Other Projects
@@ -19,6 +16,5 @@ description: I have been the primary manager for the Instagram (and later Facebo
   development, networking skills, commitment, and more. I have risen the ranks in the company and now take on more responsibility per
   shift. Shifts vary in length and location, and differ from summer camps to in-season team workouts. No matter what, I always
   bring the energy.
-
-
+---
 file:///C:/Users/ryera/Downloads/Charlie%20Morris%20Resume.pdf
