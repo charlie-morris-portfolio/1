@@ -5,5 +5,8 @@ title: Resume
 img: C0DE00DD-0B31-44F7-AC2A-1D56E06517D7.jpeg
 alt: Charlie Morris covering breaking news at Notre Dame behind NDTV desk.
 description: My resume recaps my education, professional experience, other skills, and more. I look forward to
-  adding to it in the near future! <a href="file:///C:/Users/ryera/OneDrive%20-%20nd.edu/Charlie%20Morris%20Resume.pdf"> Observe my resume here.</a>
+  adding to it in the near future!
+<br>
+<br>
+img: img/portfolio/photo of resume.jpg
 ---
