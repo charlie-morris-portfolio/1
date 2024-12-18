@@ -7,7 +7,23 @@ alt: Charlie Morris covering breaking news at Notre Dame behind NDTV desk.
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
 
-
+layout: default
+modal-id: 6
+title: Other Projects
+img: A449B648-D12F-43E6-B888-7B80E0003D9A.jpeg
+alt: Charlie Morris, social media manager, posing with the JMH Family Fund Board
+description: I have been the primary manager for the Instagram (and later Facebook) account for my family's new non-profit
+  organization, the JMH Family Fund. I am in charge of posting on a regular basis and increasing brand name awareness. The
+  Instagram page consistently gets over 1,000 views per month despite being just over one year old. <a `              href="https://www.instagram.com/jmh.family.fund/"> Follow us on Instagram here.</a>
+  <br>
+  At Notre Dame, I am the President of the Hockey Analytics Club. Since freshman year, I have overseen the club grow from 3 members to 12
+  and communication with the coaching staff improve from unseen emails to direct contact. We scout ND hockey opponents using private data,
+  and turn thousands of stats into a one-page report on a weekly basis. 
+  <br>
+  When at home in New York, I work as a hockey skills coach for Erik Nates Euro Hockey. This job has helped greatly with professional
+  development, networking skills, commitment, and more. I have risen the ranks in the company and now take on more responsibility per
+  shift. Shifts vary in length and location, and differ from summer camps to in-season team workouts. No matter what, I always
+  bring the energy.
 
 
 file:///C:/Users/ryera/Downloads/Charlie%20Morris%20Resume.pdf
